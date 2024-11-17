@@ -57,11 +57,18 @@ section.sobre{
 }
 .social-media{
     position:absolute;
-    right:495px;
+    right:1820px;
     top:300px;
 }
 .social-media img{
     display:block;
     width:30px;
     margin:10px;
+}
+.texto-sobre{
+    margin-top:100px;
+}
+.texto-sobre h1{
+    font-size:50px;
+    text-align: center;
 }
