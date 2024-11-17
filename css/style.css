@@ -68,7 +68,26 @@ section.sobre{
 .texto-sobre{
     margin-top:100px;
 }
-.texto-sobre h1{
-    font-size:50px;
-    text-align: center;
+.texto-sobre{
+    text-align: right;
+    width: 47%;
+    font-size: 23px;
+}
+
+.texto-sobre p{
+    position:relative;
+    left: 50px;
+    padding:12px 0;
+    color: black;
+    font-size:18px;
+    margin:5px 0;
+}
+.texto-sobre button{
+    border:0;
+    background-color: #0b2e43;
+    color:white;
+    border-radius:10px;
+    width:100px;
+    height:50px;
+    cursor:pointer;
 }
